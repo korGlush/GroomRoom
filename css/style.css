@@ -73,7 +73,7 @@ html {
 .header {
   padding-top: 25px;
   padding-bottom: 25px;
-  background-color: #4eb345;
+  background-color: #ff8800;;
 }
 
 .header-block {
@@ -133,7 +133,7 @@ html {
 .footer {
   padding-top: 25px;
   padding-bottom: 25px;
-  background-color: #4eb345;
+  background-color: #ff8800;
 }
 
 .footer-block {
@@ -158,13 +158,13 @@ html {
   width: 500px;
   height: 320px;
   cursor: pointer;
-  background: url(../img/card/2\ \(1\).jpg) no-repeat top/100%;
+  background: url(../img/3\ \(1\).jpg) no-repeat top/100%;
   transition-duration: 0.5s;
   margin-bottom: 20px;
 }
 
 .card-box__img:hover {
-  background: url(../img/card/2\ \(2\).jpg) no-repeat top/100%;
+  background: url(../img/3\ \(2\).jpg) no-repeat top/100%;
 }
 
 .card-box__name {
